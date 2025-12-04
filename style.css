@@ -61,8 +61,8 @@ body{
 }
 .container-tarefas #icon-cestinha{
     position: absolute;
-    top: 14px;
-    right: 10px;
+    top: 10px;
+    left: 5px;
     width: 70px;
     opacity: 83%;
 }
