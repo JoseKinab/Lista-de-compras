@@ -54,8 +54,8 @@ body{
 }
 .container-tarefas #icon-carrinho{
     position: absolute;
-    top: 9px;
-    left: 10px;
+    top: 5px;
+    left: 5px;
     width: 50px;
     opacity: 83%;
 }
@@ -73,13 +73,13 @@ body{
 }
 .container-tarefas .lista-de-tarefas{
     position: relative;
-    top: 60px;
+    top: 55px;
     width: 95%;
     max-width: 450px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    margin-bottom: 153px;
+    gap: 3px;
+    margin-bottom: 170px;
 }
 .container-tarefas .lista-de-tarefas .tarefas {
     position: relative;
@@ -148,7 +148,7 @@ body{
     bottom: 0;
     width: 100%;
     height: 100px;
-    z-index: 998;
+    z-index: 999;
 }
 .add-tarefas input{
     position: relative;
@@ -172,5 +172,6 @@ body{
     cursor: pointer;
     border: none;
     border-radius: 3px;
+    margin-bottom: 15px;
 }
 
